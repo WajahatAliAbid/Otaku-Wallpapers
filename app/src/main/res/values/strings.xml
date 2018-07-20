@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Otaku Wallpapers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="wallpaper_categories">
+        <item>Anime</item>
+        <item>Game</item>
+    </string-array>
+    <string-array name="grid_items">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="default_storage">/storage/emulated/0/Pictures/Otaku Wallpapers</string>
+    <string name="default_columns">2</string>
+    <string-array name="resolution_categories">
+        <item>Device Resolution</item>
+        <item>480p</item>
+        <item>720p (HD)</item>
+        <item>1080p (Full HD)</item>
+        <item>2160p (Ultra-HD)</item>
+    </string-array>
+</resources>

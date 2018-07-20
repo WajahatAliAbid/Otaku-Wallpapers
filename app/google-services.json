@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "408270322061",
+    "firebase_url": "https://otaku-wallpapers.firebaseio.com",
+    "project_id": "otaku-wallpapers",
+    "storage_bucket": "otaku-wallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408270322061:android:a074ae563cf2b468",
+        "android_client_info": {
+          "package_name": "com.ali.otaku.otakuwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408270322061-i754pu58qkpb6nd9jg357if8j8s69n23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ali.otaku.otakuwallpapers",
+            "certificate_hash": "46f30ea449d3f533d9d212fc332d70535c885112"
+          }
+        },
+        {
+          "client_id": "408270322061-eo3ptl1ml5jii7gra002lagv07bu6plt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "408270322061-eo3ptl1ml5jii7gra002lagv07bu6plt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAabr9oNGt54rC3wc1aSZ5rkGiBVnIUhE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408270322061-eo3ptl1ml5jii7gra002lagv07bu6plt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
